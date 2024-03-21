@@ -1,5 +1,5 @@
 ### instargram👋
-<a href="https://github.com/chldudms/2024cpp/commit/100d9a82436bad99a8b7240a8e4948b7f79ab80b" target="_blank"><img src="https://img.shields.io/badge/#000000?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="QR "><img src="https://img.shields.io/badge/#000000?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 <div align="center">
 <div align="center">
   <img src=  />
