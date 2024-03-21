@@ -1,5 +1,6 @@
-### instargram👋
-<a href="QR "><img src="https://img.shields.io/badge/#000000?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+### instargram✨ 
+<a href="QR "><img s![image](https://github.com/chldudms/chldudms/assets/147842532/8cd686ed-d2cd-409b-bb3a-e2b43815d977)
+"/></a>
 <div align="center">
 <div align="center">
   <img src=  />
