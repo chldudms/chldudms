@@ -2,7 +2,7 @@
 <a href="https://github.com/chldudms/2024cpp/commit/100d9a82436bad99a8b7240a8e4948b7f79ab80b" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 <div align="center">
 <div align="center">
-  <img src= "C:\Users\yueun\Pictures\KakaoTalk_20240126_170019643_01 - 복사본.jpg" />
+  <img src= https://www.google.com/imgres?imgurl=https%3A%2F%2Fpds.joongang.co.kr%2F%2Fnews%2Fcomponent%2Fhtmlphoto_mmdata%2F201711%2F27%2F61f78e51-2494-422e-a7e7-3f704466f6a6.jpg&tbnid=MlV7U7uWnnxt7M&vet=12ahUKEwiu1u2_24SFAxVrVvUHHehWCCgQMygRegUIARCTAQ..i&imgrefurl=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F22150380&docid=q9rnU0SNpAmtDM&w=559&h=314&q=%EB%B0%B0%EA%B2%BD%ED%99%94%EB%A9%B4&ved=2ahUKEwiu1u2_24SFAxVrVvUHHehWCCgQMygRegUIARCTAQ />
 </div>
 </div>
 <!--
