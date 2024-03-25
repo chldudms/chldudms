@@ -1,9 +1,9 @@
 ### instargram✨ 
-<a href="QR "><img s![image](https://github.com/chldudms/chldudms/assets/147842532/8cd686ed-d2cd-409b-bb3a-e2b43815d977)
-"/></a>
+<a href="QR "><img (https://github.com/chldudms/chldudms/assets/147842532/8cd686ed-d2cd-409b-bb3a-e2b43815d977)
+"></a>
 <div align="center">
 <div align="center">
-// <img src=  />
+
   
 </div>
 </div>
