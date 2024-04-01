@@ -1,9 +1,33 @@
 ### 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 
 
-###  현재 배우고 있는 언어
+![header](https://capsule-render.vercel.app/api?type=venom&text=yeoeun's%20git)
+
+
+
+
+### 
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudms)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldudms)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chdludms)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<div align="center">
+<div align="center">
+
+  
+- 🔭 I’m currently working on
+-  ...
+- 🌱 I’m currently learning 
+- 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![python](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
@@ -13,23 +37,21 @@
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
+- 👯 I’m looking to collaborate on
+- ...
+- 🤔 I’m looking for help with
+-  ...
+- 💬 Ask me about
+- ...
+- 📫 How to reach me
+-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+- 😄 Pronouns
+-  ...
+- ⚡ Fun fact
+- ...
+- ![header](https://capsule-render.vercel.app/api?type=cylinder&text=bye's%20git&height=200&fontAlign=70&stroke=0000&strokeWidth=3&animation=blinking)
 
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudms)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldudms)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chdludms)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-
-
-<div align="center">
-<div align="center">
-
-  
 </div>
 </div>
 <!--
@@ -37,12 +59,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
