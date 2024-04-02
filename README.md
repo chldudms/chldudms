@@ -37,7 +37,7 @@
  📫 How to reach me
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=bye%20there&height=200&fontAlign=70&stroke=0000&strokeWidth=3&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=♡%20&height=200&fontAlign=70&stroke=0000&strokeWidth=3&animation=blinking)
 
 
 </div>
