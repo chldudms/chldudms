@@ -21,7 +21,7 @@
 <div align="center">
 <div align="center">
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?chldudms=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chldudmsffflabs)](https://github.com/anuraghazra/github-readme-stats)
   
 
  🌱 I’m currently learning 
