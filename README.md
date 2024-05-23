@@ -13,15 +13,13 @@
 
 
 
+
+<div align="center">
+<div align="center">
+
+
 [![yeoeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldudms)](https://github.com/chldudms/github-readme-stats)
 
-
-
-
-<div align="center">
-<div align="center">
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chldudmsffflabs)](https://github.com/anuraghazra/github-readme-stats)
   
 
  🌱 I’m currently learning 
