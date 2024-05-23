@@ -13,7 +13,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldudms)](https://github.com/anuraghazra/github-readme-stats)
+[![yeoeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldudms)](https://github.com/chldudms/github-readme-stats)
 
 
 
