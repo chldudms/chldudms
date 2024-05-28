@@ -5,7 +5,7 @@
 ### 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=yeoeun's%20git&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=300&section=header&text=yeoeun's%20git&fontSize=90)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudms&layout=compact)
 
@@ -34,7 +34,7 @@
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?chldudms={chldudms}&theme=blue-green"/></a>
 
-![footer](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=shark&color=yellow&height=300&section=header&fontSize=90)
 
 </div>
 </div>
