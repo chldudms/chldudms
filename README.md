@@ -5,7 +5,7 @@
 ### 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=yeoeun's%20git&fontSize=90&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=yeoeun's%20git&fontSize=90)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudms&layout=compact)
 
