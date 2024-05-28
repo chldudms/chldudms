@@ -34,6 +34,7 @@
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?chldudms={chldudms}&theme=blue-green"/></a>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=yeoeun's%20git&fontSize=90)
 
 </div>
 </div>
