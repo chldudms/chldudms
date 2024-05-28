@@ -1,9 +1,7 @@
 ### 
 
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=yeoeun's%20git&fontSize=90)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudms&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 
@@ -17,7 +15,7 @@
 <div align="center">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudms{chldudms})](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudms)](https://github.com/anuraghazra/github-readme-stats)
   
 
  🌱 I’m currently learning 
