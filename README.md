@@ -34,7 +34,7 @@
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?chldudms={chldudms}&theme=blue-green"/></a>
 
-![footer](https://capsule-render.vercel.app/api?type=shark&color=yellow&height=300&section=header&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=shark&color=A3DCBE&height=300&section=header&fontSize=90)
 
 </div>
 </div>
