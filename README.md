@@ -5,7 +5,7 @@
 ### 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Hello✨%20Welcome!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text✨%20Welcome🎇&fontSize=90)
 
 
 
