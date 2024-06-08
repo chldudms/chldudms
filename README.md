@@ -31,6 +31,7 @@
 
  📫 How to reach me
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <a href="https://velog.io/@3yeo2eun7/posts/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?chldudms={chldudms}&theme=blue-green"/></a>
 
