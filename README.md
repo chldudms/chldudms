@@ -18,7 +18,7 @@
 
 
 
- 🌱 I’m currently learning 
+ 🩵 I’m currently learning 🩵
   
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -29,9 +29,9 @@
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
- 📫 How to reach me
+┏ (゜ω゜)=👉 How to reach me
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-    <a href="https://velog.io/@3yeo2eun7/posts/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <a href="https://velog.io/@3yeo2eun7/posts/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=velog&logoColor=white"/></a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?chldudms={chldudms}&theme=blue-green"/></a>
 
