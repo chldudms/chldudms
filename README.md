@@ -5,17 +5,16 @@
 ### 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=✨%20Welcome✨&fontSize=90)
-
 
 
 
 <div align="center">
   
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=✨%20Welcome✨&fontSize=90)
 
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=chldudms&theme=swift&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 
  🩵 I’m currently learning 🩵
