@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chldudms&theme=swift&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chldudms&theme=tokyonight-duo&hide_border=true&border_radius=4.9&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 
  🩵 I’m currently learning 🩵
