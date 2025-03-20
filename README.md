@@ -34,12 +34,14 @@
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?chldudms={chldudms}&theme=blue-green"/></a>
 
-![footer](https://capsule-render.vercel.app/api?type=shark&color=bcd7e5&height=300&section=header&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bcd7e5&height=200&section=footer" />
+
 
 </div>
 </div>
 <!--
 **chldudms/chldudms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
