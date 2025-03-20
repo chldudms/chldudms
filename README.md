@@ -10,14 +10,14 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=✨%20Welcome✨&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fccaf7&height=300&section=header&text=%20✨Welcome✨&fontSize=90)
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chldudms&theme=tokyonight-duo&hide_border=true&border_radius=4.9&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 
- 🩵 I’m currently learning 🩵
+  I’m currently learning 📖
   
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -34,7 +34,7 @@
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?chldudms={chldudms}&theme=blue-green"/></a>
 
-![footer](https://capsule-render.vercel.app/api?type=shark&color=A3DCBE&height=300&section=header&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=shark&color=bcd7e5&height=300&section=header&fontSize=90)
 
 </div>
 </div>
