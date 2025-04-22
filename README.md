@@ -16,7 +16,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chldudms&icons=true&theme=calm&hide_border=true&include_all_commits=true)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudms&layout=compact&theme=calm&hide_border=true)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudms&layout=compact&theme=calm&hide_border=true&hide=c%23)
 
 ---
 
