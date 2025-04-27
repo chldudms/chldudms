@@ -1,10 +1,6 @@
 ### 
 
-
-
-### 
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DCCF7&width=435&lines=welcome+to+my+github%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 
@@ -15,8 +11,8 @@
 <div align="center">
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chldudms&icons=true&theme=calm&hide_border=true&include_all_commits=true)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudms&layout=compact&theme=calm&hide_border=true&hide=c%23)
+![chldudms's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldudms&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudms&layout=compact&hide=c%23)
 
 ---
 
