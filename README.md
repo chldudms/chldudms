@@ -76,12 +76,16 @@
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?chldudms={chldudms}&theme=blue-green"/></a>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chldudms&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/chldudms"
-  width="600"
-  height="300"
-/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chldudms&utm_content=line">
+  
+  <img
+    src="https://render.gitanimals.org/lines/chldudms?pet-id=704926638858432178"
+    width="600"
+    height="120"
+  />
 </a>
+  
+
 
 </div>
